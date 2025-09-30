@@ -2,6 +2,8 @@
 content_type: page
 description: This section overviews of each weekly class session and the list of assigned
   readings.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
